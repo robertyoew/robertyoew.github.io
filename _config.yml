@@ -4,12 +4,12 @@
 
 # Site
 title: Octopops
-subtitle:
-description: Float like a butterfly, sting like a bee.
+subtitle: Hi there!
+description: If the result is already predestined, would you still be willing to go through all of this?
 keywords:
-author: BEE
+author: Roberto
 language: en
-timezone:
+timezone: "Asia/Shanghai"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
